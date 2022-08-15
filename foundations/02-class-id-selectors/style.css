@@ -1,17 +1,20 @@
-.Number-1,.Number-3,.Number-5 {
-    background-color: rgb(230, 171, 221);
+.odd {
+    background-color: rgb(255, 167, 167);
     font-family: Verdana, "DejaVu Sans", sans-serif;
-    
-}
-#Number-2 {
-    color: rgb(30, 0, 255);
+  }
+  
+  .oddly-cool {
+    font-size: 24px;
+  }
+  
+  #two {
+    color: #0000ff;
     font-size: 36px;
-
-}.Number-3 {
+  }
+  
+  #four {
+    background-color: hsl(120, 100%, 75%);
     font-size: 24px;
-}
-#Number-4 {
     font-weight: bold;
-    font-size: 24px;
-    background-color: rgb(0, 170, 255);
-}
+  }
+  
