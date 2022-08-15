@@ -1,0 +1,11 @@
+.class-first,.class-second  {
+    font-size: 32px;
+    font-family: helvetica,"Times New Roman", sans-serif;
+}
+.class-first {
+    background-color:black;
+    color: white
+}
+.class-second {
+    background-color: yellow;
+}
